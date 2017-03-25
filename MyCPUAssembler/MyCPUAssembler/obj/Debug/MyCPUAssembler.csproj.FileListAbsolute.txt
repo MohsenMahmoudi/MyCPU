@@ -1,0 +1,9 @@
+c:\users\mohsenadc\documents\visual studio 2015\Projects\MyCPUAssembler\MyCPUAssembler\bin\Debug\MyCPUAssembler.exe.config
+c:\users\mohsenadc\documents\visual studio 2015\Projects\MyCPUAssembler\MyCPUAssembler\bin\Debug\MyCPUAssembler.exe
+c:\users\mohsenadc\documents\visual studio 2015\Projects\MyCPUAssembler\MyCPUAssembler\bin\Debug\MyCPUAssembler.pdb
+c:\users\mohsenadc\documents\visual studio 2015\Projects\MyCPUAssembler\MyCPUAssembler\obj\Debug\MyCPUAssembler.csprojResolveAssemblyReference.cache
+c:\users\mohsenadc\documents\visual studio 2015\Projects\MyCPUAssembler\MyCPUAssembler\obj\Debug\MyCPUAssembler.Form1.resources
+c:\users\mohsenadc\documents\visual studio 2015\Projects\MyCPUAssembler\MyCPUAssembler\obj\Debug\MyCPUAssembler.Properties.Resources.resources
+c:\users\mohsenadc\documents\visual studio 2015\Projects\MyCPUAssembler\MyCPUAssembler\obj\Debug\MyCPUAssembler.csproj.GenerateResource.Cache
+c:\users\mohsenadc\documents\visual studio 2015\Projects\MyCPUAssembler\MyCPUAssembler\obj\Debug\MyCPUAssembler.exe
+c:\users\mohsenadc\documents\visual studio 2015\Projects\MyCPUAssembler\MyCPUAssembler\obj\Debug\MyCPUAssembler.pdb
